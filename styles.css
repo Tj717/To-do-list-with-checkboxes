@@ -1,0 +1,10 @@
+* {color: #dddd00; text-shadow: 5px;}
+body { margin-left: 500px; margin-top: 50px;; background-color: rgb(57, 57, 57);}
+h1 { margin-left: -50px; }
+h2 {font-size: 40px; font-style: bold;}
+section {display: flex; justify-content: left;}
+div { margin-top: 50px;}
+p {margin-right: 10px; font-size: 45px; margin-bottom: 10px; color: rgb(57, 206, 107);}
+button {height: 30px; width: 100px; margin-left: 100px; margin-top: 50px; color: rgb(0, 0, 0);}
+/* input.check {background-color: rgb(22, 154, 220); outline: 2px;} */
+input {box-shadow: #05ff22; color: #dddd00 !important;}
